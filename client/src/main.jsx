@@ -35,7 +35,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-cn1j7if0vai05r8j.us.auth0.com" 
      clientId="LJzcrJDZqI3xaHAfPvsyh9uLbvhQ58Rj" 
      authorizationParams={{
-      redirect_uri: "http://localhost:5173/"
+      redirect_uri: "https://real-estate-one-peach.vercel.app/"
      }}
      audience="https://dev-cn1j7if0vai05r8j.us.auth0.com/api/v2/"
      scope="openid profile email"
